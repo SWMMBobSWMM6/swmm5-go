@@ -1,0 +1,47 @@
+[
+ {
+  "id": "801c228f71f3",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/Small_Pump_FM.inp",
+  "status": "PASS",
+  "sec": 0.975,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "2192ea27abab",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/airBreak_model.inp",
+  "status": "PASS",
+  "sec": 1.196,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "0ebf0b1c3ce1",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/Allow_Ponding_Low_CE.inp",
+  "status": "PASS",
+  "sec": 1.24,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "2e2e5e3d773f",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/PID extran_master_swmm34_example_SW5.inp",
+  "status": "PASS",
+  "sec": 1.541,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ },
+ {
+  "id": "1fce48f0c4d6",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/Mystorm.inp",
+  "status": "PASS",
+  "sec": 0.924,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": ""
+ }
+]
