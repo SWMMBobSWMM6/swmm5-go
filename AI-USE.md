@@ -8,7 +8,7 @@ language and the engines app, and supplied the model corpus. Responsibility for 
 
 **What Claude did.** It wrote the translator (`tools/c2x/`: the libclang front end and the Go back end),
 the hand-written runtime and overrides, the translation of glibc's math routines and its tools and tests (`tools/libm/`), the gate, benchmark and data scripts, ran every test and control,
-diagnosed and fixed every mismatch, built the nine-engine app, and wrote the essay, this README and the
+diagnosed and fixed every mismatch, built the engines app, and wrote the essay, this README and the
 lessons. For Go, Claude also wrote the printf/strtod/sscanf comparison with glibc (`tools/crt/test/mkfmt.c`, `go/internal/crtcheck`) and the checks for fused multiply-adds in the compiled engine (`gate/check_go_fma.sh`, `gate/check_go_fma_arm64.sh`).
 
 **How the results were checked.** The checks are mechanical: byte comparison of every `.out` and `.rpt` with EPA
